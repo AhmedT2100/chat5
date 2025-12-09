@@ -1,0 +1,13 @@
+/.env
+/.env.local
+/config.php
+/vendor/
+/node_modules/
+/.DS_Store
+/.idea/
+/.vscode/
+/composer.lock
+npm-debug.log
+*.log
+*.sqlite
+*.db
